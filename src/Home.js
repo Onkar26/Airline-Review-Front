@@ -21,7 +21,7 @@ const Home = () => {
   return (
     <>
       <div className="header">
-        <h1 style={{ margin: "0.5rem" }}> Fight Review</h1>
+        <h1 style={{ margin: "0.5rem" }}> Flight Review</h1>
         <p>Unbiased and Honest airlines reviews. Share your experience</p>
       </div>
       {isLoading ? <Loading /> : <Cardlist list={list} />}
