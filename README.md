@@ -1,3 +1,6 @@
+Instruction :  
+ - run "npm install" after cloning project
+
 This is home page :
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/59679498/187234041-02b83fb1-f270-4c37-8abd-b488c7d2085c.png)
