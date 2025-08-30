@@ -1,4 +1,5 @@
 Instruction :  
+ - install node
  - run "npm install" after cloning project
 
 This is home page :
